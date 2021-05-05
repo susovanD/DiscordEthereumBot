@@ -1,0 +1,501 @@
+,Address,Contract Name,Compiler,Version,Balance,Txns,Setting,Verified,Audited,License
+0,0xb510e5090e7b62d5bf4c86f01ea203ac14e40e56,Arbitrage,Solidity(Json),0.6.6,-,0,,5/5/2021,-,-
+1,0x73827e271f8d0f0361ef0d77dd63bf0059a843e2,Culties,Solidity(Json),0.7.3,-,0,,5/5/2021,-,-
+2,0xec2a0d134ef8ee98ffc4f2cd2882b949d1df2f6c,PopMarketplace,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+3,0x0cf9290c977ff074183b5f7b6599756316e0ab3d,PopReward,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+4,0x4464A1E499cf5443541da6728871af1D5C4920ca,VerifierWithdraw,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+5,0x1DC4b451DFcD0e848881eDE8c7A99978F00b1342,Verifier2048,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+6,0x3DAa0B2a994b1BC60dB9e312aD0a8d87a1Bb16D2,Verifier400,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+7,0x489946aacf4019ec9408693474852ba3078bcac6,StakePoolHasOperatorCreator,Solidity,0.7.6,-,0,,5/5/2021,-,None
+8,0x0adb905e46ffd36a20c843af7a094b3590ff5836,CROC,Solidity,0.6.2,-,0,-,5/5/2021,-,MIT
+9,0xa4E614E65Ff2bB9613EB48C176531B1ac3d9541f,CredinvestCoin,Solidity,0.5.0,-,0,-,5/5/2021,-,None
+10,0xb7a580e12e659b395cd7759656f418b4f96da1bf,WrappedSienna,Solidity,0.6.12,-,0,,5/5/2021,-,None
+11,0x6332d70fcd04bd81ce3bf468e4017d943d5c9b9a,BraveDoge,Solidity,0.5.7,-,0,-,5/5/2021,-,None
+12,0x7fc3ec3574d408f3b59cd88709bacb42575ebf2b,AdminUpgradeabilityProxy,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+13,0x8AFF17B2c4951BE77AE74dB0cA77903389d9943A,IdleCompoundLike,Solidity,0.5.16,0 Ether,1,,5/5/2021,-,None
+14,0xcad1ee3b990812aa0f070bd6360320983a71f00d,PopTokenV3,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+15,0xcf547fdbe78e52dc9dae647f4c01ec269bba05c3,DFND,Solidity,0.6.12,-,0,,5/5/2021,-,None
+16,0x34bbc67674085353cab3880697907af6626fed00,DogoArgentino,Solidity,0.5.7,-,0,-,5/5/2021,-,MIT
+17,0xac35ef20018633f3280c14b8d5037922b832cff9,CraftCoin,Solidity,0.6.6,-,0,-,5/5/2021,-,GNU GPLv3
+18,0x535ca610a058072c1f44bab0c369266474d4b65e,Hippie,Solidity,0.6.12,-,0,,5/5/2021,-,Unlicense
+19,0x528afba0946fcd953345824228ac1136acaf310b,GZ_GAME,Solidity,0.8.0,20.000000009732 Ether,2,,5/5/2021,-,None
+20,0xd58e867e1548d8294bc6c77585af4015ab457880,SaviourCRatioSetter,Solidity,0.6.7,-,0,,5/5/2021,-,-
+21,0x7F886416F38B9121F432Bd156b00863B62Ca6968,CryptoFame,Solidity(Json),0.7.0,-,0,-,5/5/2021,-,-
+22,0xbB27Dc801300c3055D205b8D7CA101426dE1408b,Distribution,Solidity(Multi),0.8.1,0 Ether,0,,5/5/2021,-,MIT
+23,0x735ae237f35dca6b81ca4623d5e4c6d88e80a73c,MagicPixels,Solidity,0.5.16,-,0,-,5/5/2021,-,MIT
+24,0x7694fdeb8d2a21c70f7ac7ed31d15e0b25070066,LEV,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+25,0x6c46B76Eb0BAB2bA85e6e986ECA553DEbb7Ea346,Token,Solidity,0.8.2,-,0,-,5/5/2021,-,GNU GPLv2
+26,0x0e38768fa181d19656bd1eb00e87e26e31a1f3a0,ERC20Token,Solidity,0.4.26,-,0,-,5/5/2021,-,None
+27,0x7fd95e2bc964f40d766d0b131a035c2aff8d108e,Eurg,Solidity,0.4.26,-,0,,5/5/2021,-,None
+28,0xdaEcc0941a2e68cDb8085D071A468BB05CBD235D,ProxyActions,Solidity,0.7.6,-,0,,5/5/2021,-,GNU GPLv3
+29,0xDad0D778e39aF7b16b74aaB36bf112d10E7262A8,BurnableERC20,Solidity,0.8.4,0 Ether,0,,5/5/2021,-,MIT
+30,0x2b436125c0d7a8b8a1e9fb7daf70e47add285797,DefiDOGE,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+31,0x4443ea975e41104b6dfb3b0ca7558fb881aea191,SIENNA,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+32,0x48c1a83c9496f0d6f0000b6d7f78c7b23f9e9c5a,IntegralOracle,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+33,0xa12a0ab13e43c3f9a501be4b809afbb639113320,IntegralOracle,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+34,0xa2831d7e74fbe73d3d41775d8037d764e32e56f3,TPAD,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+35,0x22812ea96a0047f3e19769256c2f5374e486606b,IntegralDelay,Solidity(Json),0.7.5,0 Ether,0,,5/5/2021,-,None
+36,0x43a2926484881fb7a95dce986eb23e9057bdc8f8,DogeDAO,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+37,0x5d0434d41c77e4d9a858000f3939c0c4a05b0e26,BuyHelper,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+38,0x486554b45c3fce6e823957a5b198ff51bdb00a10,Tokocrypto,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+39,0x0c465e2e3652fd972fbf52e15c044de93d2d640d,KingdomCoin,Solidity,0.5.0,-,0,-,5/5/2021,-,MIT
+40,0x40CA10263de3a68802e0CAE684C97C787729FdbF,ZapProxy,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+41,0xab387be54789958d2d35d8ee2cfd50a03880408d,SixtyNine,Solidity,0.5.0,-,0,-,5/5/2021,-,MIT
+42,0xBAC7E600B5eb8A5Ad0eF8f0DC31Da9476B7a8a2a,BadgerBTCZap,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+43,0xE468cE99444174Bd3bBBEd09209577d25D1ad673,AuctionHouse,Solidity(Json),0.6.8,-,0,,5/5/2021,-,-
+44,0xfc9de38a58bf3c6b4985734a8bf5946a87a4dd02,PylonProtocol,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+45,0x33bc772e6c6f95f8c436f0c666fbdf315ebd88f9,WAS,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+46,0x6C85e8101e52ea7B569230f93bC452f291edCBEC,RariFundManager,Solidity(Json),0.5.17,-,0,,5/5/2021,-,-
+47,0x559efe1d7a54fb1c7f25a036952f8498cdf02edb,DOGGToken,Solidity,0.8.4,-,0,,5/5/2021,-,MIT
+48,0xde03b1b0f4d5d3ac9ada41eeb68ed9b626d82638,NftDrop,Solidity,0.6.12,-,0,,5/5/2021,-,None
+49,0xc97f9357419AcC01Cd6Eafde938D34C082C32E0E,BadgerBTCPlus,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+50,0x967921cf90c5536fa8f528ce17201a5cbb346b23,NftfyToken,Solidity,0.6.12,-,0,,5/5/2021,-,None
+51,0xdfe5c20a93d28fea5cd0b9965db403d08f814114,DiasporaToken,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+52,0x734ee4706081e6b10954b1f5b0e51ee1e4125a7c,ELOON,Solidity,0.5.17,-,0,,5/5/2021,-,None
+53,0xb442450af36d17d83fe7bcc93bc17b18f94e245d,WethToBscStrategy,Solidity,0.6.12,0 Ether,0,,5/5/2021,-,GNU AGPLv3
+54,0x86cfec32b37c2321be14bd0fdcbf4b5d8b50bc73,ERC20,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+55,0x8c3573b02da5d2923ac042946e1c279e363adbe9,Universal_Basic_Income_Finance,Solidity,0.6.0,-,0,,5/5/2021,-,MIT
+56,0xd4a0e3ec2a937e7cca4a192756a8439a8bf4ba91,ExternallyFundedOSM,Solidity,0.6.7,0 Ether,0,,5/5/2021,-,GNU LGPLv3
+57,0x105b857583346e250fbd04a57ce0e491eb204ba3,FSMWrapper,Solidity,0.6.7,0 Ether,0,,5/5/2021,-,GNU LGPLv3
+58,0xc751da2a0b1c7947b47084da4ea8ddd4039ea97c,CancelableDelegatingVester,Solidity(Json),0.6.12,0 Ether,0,,5/5/2021,-,MIT
+59,0x1c73620424b64d74bef19bf00a7b3fb89056c949,MiniPikachu,Solidity,0.6.12,-,0,-,5/5/2021,-,None
+60,0x09a80825C34751EF7c7B5749BfA32eb9d1B718a9,ShroomTopiaMainnet,Solidity(Json),0.8.3,0 Ether,1,-,5/5/2021,-,-
+61,0x0e29041fb31a3e7f5f7f6a917a7df006f75a7373,Kickstarter,Solidity,0.8.4,0 Ether,39,,5/5/2021,-,None
+62,0x1817ddedde425fb65ba8340c5a19c0c712acdbbc,DogeChain,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+63,0x88e74996B15f5d5Cc7Aebddff4DDe90c0c18bf47,VestingFactory,Solidity(Json),0.6.12,0 Ether,0,,5/5/2021,-,-
+64,0x909da9149602409c0107cea2ad9f5c64870c83d2,Lunar,Solidity,0.5.0,0 Ether,1,-,5/5/2021,-,MIT
+65,0xa41f0d8ba9f73c28c860bb3ab930ff7ab28bde24,DogeDAO,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+66,0x501b6cf17f0ceb15e1f57a1e95b98f762409d178,HotElon,Solidity,0.5.17,-,0,,5/5/2021,-,MIT
+67,0x9c81BA58A80CbfAF879EC1440ac7B24F401f5873,ForgeToken,Solidity(Json),0.7.6,0 Ether,0,,5/5/2021,-,-
+68,0x7766d4d9b0b0385ddc6f960d10b80f7a0cffebff,PartyBid,Solidity,0.6.8,0 Ether,0,,5/5/2021,-,GNU GPLv3
+69,0x13773093Cdad89e8e1615f581a37c7eeaBb04804,MintGatewayUpgrader,Solidity,0.5.17,-,0,,5/5/2021,-,-
+70,0x1A562822F99d11E8F993f6BCdA86277123CE22B4,MintGatewayLogicV2,Solidity,0.5.17,-,0,,5/5/2021,-,-
+71,0xd1d787906e36702f5e8b1a4195a27997f763c6f0,HARAMBUCKS,Solidity,0.4.26,-,0,-,5/5/2021,-,MIT
+72,0x7d85d8b03f2da96c68ae8389a935010bfdc3ae6e,MATTER,Solidity,0.6.12,0 Ether,0,,5/5/2021,-,MIT
+73,0xd73f0ce21be7eb1834f91e68c55ce149b2e8dc46,PricesHelper,Solidity,0.8.2,-,0,,5/4/2021,-,None
+74,0x279ACD17b799e85AE0dfc2abAa60DC3E23cbE142,ETHDistributor,Solidity,0.8.1,3.604324943993279136 Ether,0,,5/4/2021,-,MIT
+75,0xddad3c77898db3a20487d642b75af24e2e7ef8af,BlockFin,Solidity,0.5.0,-,0,-,5/4/2021,-,MIT
+76,0x257d29e3d81d07c9e0d4056c77d107a00043cc07,DogeMaul,Solidity,0.6.12,0 Ether,4,,5/4/2021,-,None
+77,0xadada805f75a18def542497208f46e0011a96eff,cyrus,Solidity(Multi),0.4.26,0 Ether,1,,5/4/2021,-,None
+78,0xA5644E29708357803b5A882D272c41cC0dF92B34,V3Migrator,Solidity(Json),0.7.6,0 Ether,2,,5/4/2021,-,-
+79,0x2b139777178Dc11516D3446367F5Bef96AB29941,CaptureTheFlag,Solidity,0.7.6,0 Ether,1,,5/4/2021,-,MIT
+80,0xbfd8137f7d1516D3ea5cA83523914859ec47F573,TickLens,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+81,0x0886067579ba2acea3d3a1d12a5cb85af76ba526,SingleRecipientPaymaster,Solidity,0.7.6,0 Ether,4,,5/4/2021,-,MIT
+82,0x8878e7380aad78c2d62278c2f9012b21f26e2d8d,SafeGalaxy,Solidity,0.6.12,0.003260207713536442 Ether,31,-,5/4/2021,-,None
+83,0xf05336a9bcc1805fa6c9f9635300ad43ac1b57eb,TokenMigrator,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,MIT
+84,0x72377f31e30a405282b522d588aebbea202b4f23,Varen,Solidity(Multi),0.8.4,0 Ether,1,,5/4/2021,-,MIT
+85,0x48e15abbcb21c7f564c1b5ae08a9f7829745f6d7,Backup,Solidity,0.5.17,0 Ether,6,-,5/4/2021,-,GNU GPLv2
+86,0xEbD7C7aBAb1E67c6d7e1d277DFC0F8e9eD01b110,RyanTedderNFT,Solidity(Json),0.8.4,0 Ether,4,,5/4/2021,-,-
+87,0x31a1a4f75539b515ef2f08b952dbe36941e0a98e,Varen,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,MIT
+88,0x04bc6c3b371e3778094387bae59a4849e5961671,TIK,Solidity,0.8.0,0 Ether,1,-,5/4/2021,-,MIT
+89,0x482554a9f6837dc4e56b7fe64cb5b0e1665b1054,ERC20,Solidity,0.6.12,0 Ether,3,,5/4/2021,-,None
+90,0x29a3Ba62f57dcbF58461a20C4AeC6dD1CD8Fe172,MainToken,Solidity,0.4.24,0 Ether,4,,5/4/2021,-,GNU LGPLv3
+91,0xc73f3ce5360a7fc0021f1af7ebc9398137fded3c,Ice_Cream_Finance,Solidity,0.7.6,0 Ether,6,,5/4/2021,-,MIT
+92,0xf3eb07fc0d0186dd5af4b5b2de56bcb222f9c230,BINKS,Solidity,0.6.4,0 Ether,86,-,5/4/2021,-,MIT
+93,0x38c674160b3d3ec2861356437a1aa264190c1771,DarthDoge,Solidity,0.6.12,0 Ether,458,,5/4/2021,-,None
+94,0x026124af74cf9ba7e0586cb2e53ef2301ea5f24c,Xpal,Solidity,0.4.24,0 Ether,1,-,5/4/2021,-,None
+95,0x25bf7b72815476dd515044f9650bf79bad0df655,CalculationsCurve,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,None
+96,0x38F2cAb3A37989b6175A50268405FE90d694636c,LiquidityMiningImp,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+97,0x53714E8a6B743E3f8BfeC2d2231F436bd2c65E57,UpgradeabilityProxy,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+98,0xab8545aa7d11ce510f5937d382437a8e93d7eb80,ERC20,Solidity,0.6.6,0 Ether,5,,5/4/2021,-,None
+99,0x11cEFaaF4afbC415aB6dA0AC45B4f825CD6124a1,LiquidityMiningImp,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+0,0xb510e5090e7b62d5bf4c86f01ea203ac14e40e56,Arbitrage,Solidity(Json),0.6.6,-,0,,5/5/2021,-,-
+1,0x73827e271f8d0f0361ef0d77dd63bf0059a843e2,Culties,Solidity(Json),0.7.3,-,0,,5/5/2021,-,-
+2,0xec2a0d134ef8ee98ffc4f2cd2882b949d1df2f6c,PopMarketplace,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+3,0x0cf9290c977ff074183b5f7b6599756316e0ab3d,PopReward,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+4,0x4464A1E499cf5443541da6728871af1D5C4920ca,VerifierWithdraw,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+5,0x1DC4b451DFcD0e848881eDE8c7A99978F00b1342,Verifier2048,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+6,0x3DAa0B2a994b1BC60dB9e312aD0a8d87a1Bb16D2,Verifier400,Solidity(Json),0.6.12,-,0,,5/5/2021,-,-
+7,0x489946aacf4019ec9408693474852ba3078bcac6,StakePoolHasOperatorCreator,Solidity,0.7.6,-,0,,5/5/2021,-,None
+8,0x0adb905e46ffd36a20c843af7a094b3590ff5836,CROC,Solidity,0.6.2,-,0,-,5/5/2021,-,MIT
+9,0xa4E614E65Ff2bB9613EB48C176531B1ac3d9541f,CredinvestCoin,Solidity,0.5.0,-,0,-,5/5/2021,-,None
+10,0xb7a580e12e659b395cd7759656f418b4f96da1bf,WrappedSienna,Solidity,0.6.12,-,0,,5/5/2021,-,None
+11,0x6332d70fcd04bd81ce3bf468e4017d943d5c9b9a,BraveDoge,Solidity,0.5.7,-,0,-,5/5/2021,-,None
+12,0x7fc3ec3574d408f3b59cd88709bacb42575ebf2b,AdminUpgradeabilityProxy,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+13,0x8AFF17B2c4951BE77AE74dB0cA77903389d9943A,IdleCompoundLike,Solidity,0.5.16,0 Ether,1,,5/5/2021,-,None
+14,0xcad1ee3b990812aa0f070bd6360320983a71f00d,PopTokenV3,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+15,0xcf547fdbe78e52dc9dae647f4c01ec269bba05c3,DFND,Solidity,0.6.12,-,0,,5/5/2021,-,None
+16,0x34bbc67674085353cab3880697907af6626fed00,DogoArgentino,Solidity,0.5.7,-,0,-,5/5/2021,-,MIT
+17,0xac35ef20018633f3280c14b8d5037922b832cff9,CraftCoin,Solidity,0.6.6,-,0,-,5/5/2021,-,GNU GPLv3
+18,0x535ca610a058072c1f44bab0c369266474d4b65e,Hippie,Solidity,0.6.12,-,0,,5/5/2021,-,Unlicense
+19,0x528afba0946fcd953345824228ac1136acaf310b,GZ_GAME,Solidity,0.8.0,20.000000009732 Ether,2,,5/5/2021,-,None
+20,0xd58e867e1548d8294bc6c77585af4015ab457880,SaviourCRatioSetter,Solidity,0.6.7,-,0,,5/5/2021,-,-
+21,0x7F886416F38B9121F432Bd156b00863B62Ca6968,CryptoFame,Solidity(Json),0.7.0,-,0,-,5/5/2021,-,-
+22,0xbB27Dc801300c3055D205b8D7CA101426dE1408b,Distribution,Solidity(Multi),0.8.1,0 Ether,0,,5/5/2021,-,MIT
+23,0x735ae237f35dca6b81ca4623d5e4c6d88e80a73c,MagicPixels,Solidity,0.5.16,-,0,-,5/5/2021,-,MIT
+24,0x7694fdeb8d2a21c70f7ac7ed31d15e0b25070066,LEV,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+25,0x6c46B76Eb0BAB2bA85e6e986ECA553DEbb7Ea346,Token,Solidity,0.8.2,-,0,-,5/5/2021,-,GNU GPLv2
+26,0x0e38768fa181d19656bd1eb00e87e26e31a1f3a0,ERC20Token,Solidity,0.4.26,-,0,-,5/5/2021,-,None
+27,0x7fd95e2bc964f40d766d0b131a035c2aff8d108e,Eurg,Solidity,0.4.26,-,0,,5/5/2021,-,None
+28,0xdaEcc0941a2e68cDb8085D071A468BB05CBD235D,ProxyActions,Solidity,0.7.6,-,0,,5/5/2021,-,GNU GPLv3
+29,0xDad0D778e39aF7b16b74aaB36bf112d10E7262A8,BurnableERC20,Solidity,0.8.4,0 Ether,0,,5/5/2021,-,MIT
+30,0x2b436125c0d7a8b8a1e9fb7daf70e47add285797,DefiDOGE,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+31,0x4443ea975e41104b6dfb3b0ca7558fb881aea191,SIENNA,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+32,0x48c1a83c9496f0d6f0000b6d7f78c7b23f9e9c5a,IntegralOracle,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+33,0xa12a0ab13e43c3f9a501be4b809afbb639113320,IntegralOracle,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+34,0xa2831d7e74fbe73d3d41775d8037d764e32e56f3,TPAD,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+35,0x22812ea96a0047f3e19769256c2f5374e486606b,IntegralDelay,Solidity(Json),0.7.5,0 Ether,0,,5/5/2021,-,None
+36,0x43a2926484881fb7a95dce986eb23e9057bdc8f8,DogeDAO,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+37,0x5d0434d41c77e4d9a858000f3939c0c4a05b0e26,BuyHelper,Solidity(Json),0.7.5,-,0,,5/5/2021,-,None
+38,0x486554b45c3fce6e823957a5b198ff51bdb00a10,Tokocrypto,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+39,0x0c465e2e3652fd972fbf52e15c044de93d2d640d,KingdomCoin,Solidity,0.5.0,-,0,-,5/5/2021,-,MIT
+40,0x40CA10263de3a68802e0CAE684C97C787729FdbF,ZapProxy,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+41,0xab387be54789958d2d35d8ee2cfd50a03880408d,SixtyNine,Solidity,0.5.0,-,0,-,5/5/2021,-,MIT
+42,0xBAC7E600B5eb8A5Ad0eF8f0DC31Da9476B7a8a2a,BadgerBTCZap,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+43,0xE468cE99444174Bd3bBBEd09209577d25D1ad673,AuctionHouse,Solidity(Json),0.6.8,-,0,,5/5/2021,-,-
+44,0xfc9de38a58bf3c6b4985734a8bf5946a87a4dd02,PylonProtocol,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+45,0x33bc772e6c6f95f8c436f0c666fbdf315ebd88f9,WAS,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+46,0x6C85e8101e52ea7B569230f93bC452f291edCBEC,RariFundManager,Solidity(Json),0.5.17,-,0,,5/5/2021,-,-
+47,0x559efe1d7a54fb1c7f25a036952f8498cdf02edb,DOGGToken,Solidity,0.8.4,-,0,,5/5/2021,-,MIT
+48,0xde03b1b0f4d5d3ac9ada41eeb68ed9b626d82638,NftDrop,Solidity,0.6.12,-,0,,5/5/2021,-,None
+49,0xc97f9357419AcC01Cd6Eafde938D34C082C32E0E,BadgerBTCPlus,Solidity(Json),0.8.0,-,0,,5/5/2021,-,-
+50,0x967921cf90c5536fa8f528ce17201a5cbb346b23,NftfyToken,Solidity,0.6.12,-,0,,5/5/2021,-,None
+51,0xdfe5c20a93d28fea5cd0b9965db403d08f814114,DiasporaToken,Solidity,0.6.12,-,0,,5/5/2021,-,MIT
+52,0x734ee4706081e6b10954b1f5b0e51ee1e4125a7c,ELOON,Solidity,0.5.17,-,0,,5/5/2021,-,None
+53,0xb442450af36d17d83fe7bcc93bc17b18f94e245d,WethToBscStrategy,Solidity,0.6.12,0 Ether,0,,5/5/2021,-,GNU AGPLv3
+54,0x86cfec32b37c2321be14bd0fdcbf4b5d8b50bc73,ERC20,Solidity,0.6.6,-,0,,5/5/2021,-,MIT
+55,0x8c3573b02da5d2923ac042946e1c279e363adbe9,Universal_Basic_Income_Finance,Solidity,0.6.0,-,0,,5/5/2021,-,MIT
+56,0xd4a0e3ec2a937e7cca4a192756a8439a8bf4ba91,ExternallyFundedOSM,Solidity,0.6.7,0 Ether,0,,5/5/2021,-,GNU LGPLv3
+57,0x105b857583346e250fbd04a57ce0e491eb204ba3,FSMWrapper,Solidity,0.6.7,0 Ether,0,,5/5/2021,-,GNU LGPLv3
+58,0xc751da2a0b1c7947b47084da4ea8ddd4039ea97c,CancelableDelegatingVester,Solidity(Json),0.6.12,0 Ether,0,,5/5/2021,-,MIT
+59,0x1c73620424b64d74bef19bf00a7b3fb89056c949,MiniPikachu,Solidity,0.6.12,-,0,-,5/5/2021,-,None
+60,0x09a80825C34751EF7c7B5749BfA32eb9d1B718a9,ShroomTopiaMainnet,Solidity(Json),0.8.3,0 Ether,1,-,5/5/2021,-,-
+61,0x0e29041fb31a3e7f5f7f6a917a7df006f75a7373,Kickstarter,Solidity,0.8.4,0 Ether,39,,5/5/2021,-,None
+62,0x1817ddedde425fb65ba8340c5a19c0c712acdbbc,DogeChain,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+63,0x88e74996B15f5d5Cc7Aebddff4DDe90c0c18bf47,VestingFactory,Solidity(Json),0.6.12,0 Ether,0,,5/5/2021,-,-
+64,0x909da9149602409c0107cea2ad9f5c64870c83d2,Lunar,Solidity,0.5.0,0 Ether,1,-,5/5/2021,-,MIT
+65,0xa41f0d8ba9f73c28c860bb3ab930ff7ab28bde24,DogeDAO,Solidity,0.6.12,-,0,-,5/5/2021,-,MIT
+66,0x501b6cf17f0ceb15e1f57a1e95b98f762409d178,HotElon,Solidity,0.5.17,-,0,,5/5/2021,-,MIT
+67,0x9c81BA58A80CbfAF879EC1440ac7B24F401f5873,ForgeToken,Solidity(Json),0.7.6,0 Ether,0,,5/5/2021,-,-
+68,0x7766d4d9b0b0385ddc6f960d10b80f7a0cffebff,PartyBid,Solidity,0.6.8,0 Ether,0,,5/5/2021,-,GNU GPLv3
+69,0x13773093Cdad89e8e1615f581a37c7eeaBb04804,MintGatewayUpgrader,Solidity,0.5.17,-,0,,5/5/2021,-,-
+70,0x1A562822F99d11E8F993f6BCdA86277123CE22B4,MintGatewayLogicV2,Solidity,0.5.17,-,0,,5/5/2021,-,-
+71,0xd1d787906e36702f5e8b1a4195a27997f763c6f0,HARAMBUCKS,Solidity,0.4.26,-,0,-,5/5/2021,-,MIT
+72,0x7d85d8b03f2da96c68ae8389a935010bfdc3ae6e,MATTER,Solidity,0.6.12,0 Ether,0,,5/5/2021,-,MIT
+73,0xd73f0ce21be7eb1834f91e68c55ce149b2e8dc46,PricesHelper,Solidity,0.8.2,-,0,,5/4/2021,-,None
+74,0x279ACD17b799e85AE0dfc2abAa60DC3E23cbE142,ETHDistributor,Solidity,0.8.1,3.604324943993279136 Ether,0,,5/4/2021,-,MIT
+75,0xddad3c77898db3a20487d642b75af24e2e7ef8af,BlockFin,Solidity,0.5.0,-,0,-,5/4/2021,-,MIT
+76,0x257d29e3d81d07c9e0d4056c77d107a00043cc07,DogeMaul,Solidity,0.6.12,0 Ether,4,,5/4/2021,-,None
+77,0xadada805f75a18def542497208f46e0011a96eff,cyrus,Solidity(Multi),0.4.26,0 Ether,1,,5/4/2021,-,None
+78,0xA5644E29708357803b5A882D272c41cC0dF92B34,V3Migrator,Solidity(Json),0.7.6,0 Ether,2,,5/4/2021,-,-
+79,0x2b139777178Dc11516D3446367F5Bef96AB29941,CaptureTheFlag,Solidity,0.7.6,0 Ether,1,,5/4/2021,-,MIT
+80,0xbfd8137f7d1516D3ea5cA83523914859ec47F573,TickLens,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+81,0x0886067579ba2acea3d3a1d12a5cb85af76ba526,SingleRecipientPaymaster,Solidity,0.7.6,0 Ether,4,,5/4/2021,-,MIT
+82,0x8878e7380aad78c2d62278c2f9012b21f26e2d8d,SafeGalaxy,Solidity,0.6.12,0.003260207713536442 Ether,31,-,5/4/2021,-,None
+83,0xf05336a9bcc1805fa6c9f9635300ad43ac1b57eb,TokenMigrator,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,MIT
+84,0x72377f31e30a405282b522d588aebbea202b4f23,Varen,Solidity(Multi),0.8.4,0 Ether,1,,5/4/2021,-,MIT
+85,0x48e15abbcb21c7f564c1b5ae08a9f7829745f6d7,Backup,Solidity,0.5.17,0 Ether,6,-,5/4/2021,-,GNU GPLv2
+86,0xEbD7C7aBAb1E67c6d7e1d277DFC0F8e9eD01b110,RyanTedderNFT,Solidity(Json),0.8.4,0 Ether,4,,5/4/2021,-,-
+87,0x31a1a4f75539b515ef2f08b952dbe36941e0a98e,Varen,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,MIT
+88,0x04bc6c3b371e3778094387bae59a4849e5961671,TIK,Solidity,0.8.0,0 Ether,1,-,5/4/2021,-,MIT
+89,0x482554a9f6837dc4e56b7fe64cb5b0e1665b1054,ERC20,Solidity,0.6.12,0 Ether,3,,5/4/2021,-,None
+90,0x29a3Ba62f57dcbF58461a20C4AeC6dD1CD8Fe172,MainToken,Solidity,0.4.24,0 Ether,4,,5/4/2021,-,GNU LGPLv3
+91,0xc73f3ce5360a7fc0021f1af7ebc9398137fded3c,Ice_Cream_Finance,Solidity,0.7.6,0 Ether,6,,5/4/2021,-,MIT
+92,0xf3eb07fc0d0186dd5af4b5b2de56bcb222f9c230,BINKS,Solidity,0.6.4,0 Ether,86,-,5/4/2021,-,MIT
+93,0x38c674160b3d3ec2861356437a1aa264190c1771,DarthDoge,Solidity,0.6.12,0 Ether,458,,5/4/2021,-,None
+94,0x026124af74cf9ba7e0586cb2e53ef2301ea5f24c,Xpal,Solidity,0.4.24,0 Ether,1,-,5/4/2021,-,None
+95,0x25bf7b72815476dd515044f9650bf79bad0df655,CalculationsCurve,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,None
+96,0x38F2cAb3A37989b6175A50268405FE90d694636c,LiquidityMiningImp,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+97,0x53714E8a6B743E3f8BfeC2d2231F436bd2c65E57,UpgradeabilityProxy,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+98,0xab8545aa7d11ce510f5937d382437a8e93d7eb80,ERC20,Solidity,0.6.6,0 Ether,5,,5/4/2021,-,None
+99,0x11cEFaaF4afbC415aB6dA0AC45B4f825CD6124a1,LiquidityMiningImp,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+0,0x74F9177825E3b0B7b242e0fEb03c38b3fF2dcB18,ApymonPack721,Solidity(Multi),0.8.1,0 Ether,1,,5/4/2021,-,MIT
+1,0x9d6e1eA17821EF60346721c56013e3c73038640F,UpgradeabilityProxy,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+2,0xBC9D2F325fb69307cD07046682D0293551B35Cc1,RibbonThetaVault,Solidity,0.7.2,0 Ether,1,,5/4/2021,-,MIT
+3,0x67dc1736b8cd17e0d379a7e181c9d4144ee5bfff,NKNToken,Solidity,0.4.26,0 Ether,2,,5/4/2021,-,MIT
+4,0x9c304151f3aa63e6f6c8ed24c4ee8398540c73b2,GammaAdapter,Solidity,0.7.2,0 Ether,1,,5/4/2021,-,MIT
+5,0xadf2472f90a577edd3cd745e56573b88e9a30351,PutinFinanceToken,Solidity,0.6.12,0 Ether,30,-,5/4/2021,-,MIT
+6,0xa2c132e405bc8c6599940fc153486da21e947ec0,Staker,Solidity,0.8.1,0 Ether,3,,5/4/2021,-,MIT
+7,0x22d9e4f1e44b4f3581139affc6559a5e8831825e,IterableMapping,Solidity,0.8.1,0 Ether,2,,5/4/2021,-,MIT
+8,0x3ed7A0bE7f811e6742Bd7CCea2b53cD09e3b96fd,OCCStakingImp,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+9,0xeBC86Fb12ab0fFaC6CBcaFCe2f049BfE7eFAda0D,UpgradeabilityProxy,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+10,0x8512a66d249e3b51000b772047c8545ad010f27c,TransferValueToMinerCoinbase,Solidity,0.6.12,0 Ether,2,,5/4/2021,-,MIT
+11,0x7759df3117a72c35e1df56a8596fd6bc9b197327,Wookiee,Solidity,0.5.17,0 Ether,27,,5/4/2021,-,MIT
+12,0x2a2faf37da59c2f45001a37f4a0f32eead375e9f,MappingToken,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,MIT
+13,0x4ca948234d7502287d52b179e8911c88a8e866e5,Star_Wars_NFT_Network,Solidity,0.5.17,0 Ether,3,,5/4/2021,-,MIT
+14,0x06c24002f43e3af904eeec581734ea3a7dbf355e,MappableToken,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,MIT
+15,0xec2c74c9e2457d328bc6216858280ea13e740e8a,TokenMapped,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,MIT
+16,0x54b54dc55683288ed6f97fe80a2ff20e5394f772,swappingEth,Solidity(Multi),0.8.1,0 Ether,1,,5/4/2021,-,MIT
+17,0x0A227052b7d25F6926146D4bd431aBeeC5fb3234,RibbonThetaVault,Solidity,0.7.2,0 Ether,1,,5/4/2021,-,MIT
+18,0x8cd77b2a37b98cd36cc7adf540345711cbcb442e,OBELON,Solidity,0.6.12,0 Ether,16,,5/4/2021,-,Unlicense
+19,0x16772a7f4a3ca291C21B8AcE76F9332dDFfbb5Ef,AdminUpgradeabilityProxy,Solidity,0.7.2,0 Ether,3,,5/4/2021,-,MIT
+20,0xC36442b4a4522E871399CD717aBDD847Ab11FE88,NonfungiblePositionManager,Solidity(Json),0.7.6,0 Ether,39,,5/4/2021,-,-
+21,0x91ae842A5Ffd8d12023116943e72A606179294f3,NonfungibleTokenPositionDescriptor,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+22,0xE592427A0AEce92De3Edee1F18E0157C05861564,SwapRouter,Solidity(Json),0.7.6,0 Ether,17,,5/4/2021,-,-
+23,0x42B24A95702b9986e82d421cC3568932790A48Ec,NFTDescriptor,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+24,0xb27308f9F90D607463bb33eA1BeBb41C27CE5AB6,Quoter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+25,0x1F98431c8aD98523631AE4a59f267346ea31F984,UniswapV3Factory,Solidity(Json),0.7.6,0 Ether,3,,5/4/2021,-,-
+26,0x11fef700a4801639871372d75d039755ddd0dc20,UPDeFi,Solidity,0.5.17,0 Ether,1,,5/4/2021,-,MIT
+27,0x381628308a932560e301aecea479b3dca0631251,TokenMintERC20Token,Solidity,0.5.0,0 Ether,2,,5/4/2021,-,None
+28,0xcb75A1655c84589652D0f3A4605e5dDA8431F0a6,Vyper_contract,Vyper,vyper:0.2.8,0 Ether,2,,5/4/2021,-,MIT
+29,0x55fef6f4f561a781e59a9246f5658604397f0571,StarlinkMissionMars,Solidity,0.5.17,0 Ether,3,-,5/4/2021,-,MIT
+30,0xa02cabd8e8d743f4cf148f41d8b3ca20e550a2ae,Converter,Solidity(Json),0.8.0,0 Ether,1,,5/4/2021,-,-
+31,0xa7e58207bf08c09e76d44fe8f2748be68fbead6b,DOGG,Solidity,0.5.0,0 Ether,1,,5/4/2021,-,None
+32,0x0d02de28a47b6e13757192e27083cc0f326551a3,TrueMoon,Solidity,0.6.12,0 Ether,126,,5/4/2021,-,None
+33,0xaa9d4f56676938f913a71e9f179b7104d99e4e69,TKT,Solidity,0.4.24,0 Ether,3,-,5/4/2021,-,None
+34,0xc0bcb3409027f74e9397c961028734b2f9f6bb0e,ZilliosCrowdsale,Solidity,0.8.0,0 Ether,3,,5/4/2021,-,MIT
+35,0xb96f0e9bb32760091eb2d6b0a5ca0d2c7b5644b1,MoonLambo,Solidity,0.5.17,0 Ether,7,-,5/4/2021,-,MIT
+36,0x0ebf8cf5e5006AA0EF4Ba80e4e1ca8B773C5b985,MainnetBridgePool,Solidity,0.8.3,0.954095068874860304 Ether,48,,5/4/2021,-,None
+37,0x90256c9eb2a49945f6d3c449ad47c3c78bc19314,ZilliosToken,Solidity,0.8.0,0 Ether,2,,5/4/2021,-,MIT
+38,0x016ca8d0993d1a7073b01802a2e22fd0df7e633a,InstaReflexerResolver,Solidity,0.6.0,0 Ether,1,,5/4/2021,-,MIT
+39,0x239dc02a28a0774738463e06245544a72745d5c5,HanzoInu,Solidity,0.6.12,0 Ether,6,,5/4/2021,-,MIT
+40,0x2d943cebdC2b9D9D0827E33F3Be9629B3548A198,Bank,Solidity(Json),0.7.3,0 Ether,87,,5/4/2021,-,-
+41,0x3bebdce1219c394dfaa1df781f9aa31d179dff47,VOTX2,Solidity(Json),0.6.12,0 Ether,2,,5/4/2021,-,-
+42,0x2018f98B50C707AECfbd2F22622869Bc02A3f869,GovernorAlpha,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,-
+43,0x68a348187e58f19fb1992b483aabf4384f33211c,EsportsPro,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,Unlicense
+44,0xc2b50fe40b1ced0fc6bea75241d2cf3c90f925ee,Jackpot,Solidity,0.5.17,0 Ether,5,,5/4/2021,-,MIT
+45,0xaec9e881094ad7ab458fc43d58417a2d4b515c0d,Anubis,Solidity,0.4.23,0 Ether,30,-,5/4/2021,-,None
+46,0x54f1b982875ce09b9cf11dccd7c27c04cafb43d8,DeployOSMandWrapper,Solidity,0.6.7,0 Ether,1,,5/4/2021,-,GNU LGPLv3
+47,0x4e74b677202ed462c6a9b2e599f4699ad67a98bb,Factory,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,MIT
+48,0xaf774ef05c101bb573f6458bf59460f0e190cad9,BEP20Token,Solidity,0.5.16,0 Ether,2,,5/4/2021,-,None
+49,0xd0CA3F9B0E22a45536991889B8881642411eB7F8,LBPController,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+50,0x491357ba3b5e52d4dfe676bc4c7bcbcbed058042,Luke,Solidity,0.6.12,0 Ether,23,,5/4/2021,-,None
+51,0x50d7cc5d9d0ec49d350c2a6900d59e18627cc12b,TIPSYTOKEN,Solidity,0.6.12,0 Ether,9,-,5/4/2021,-,None
+52,0x73FF761a57188ade6D695BA7C3227aa4bf622262,BTAPStaking,Solidity(Json),0.8.0,0 Ether,37,,5/4/2021,-,-
+53,0xea1d6b251268d1e264de6838f13bb9dfff10d09c,RandomizedSale,Solidity,0.6.12,0 Ether,20,-,5/4/2021,-,None
+54,0xf18b0928f5083c230aae3a8d29a63ecb1bac632e,NKTToken,Solidity,0.6.6,0 Ether,1,-,5/4/2021,-,None
+55,0xAd3442B69c450Cb657e3D46308a017DAbe604951,MistXRouter,Solidity(Json),0.8.3,0 Ether,3,,5/4/2021,-,-
+56,0x6f0b967a8200c764d09a781397a28f0a0ec259c0,ProxyActions,Solidity,0.7.6,0 Ether,1,,5/4/2021,-,GNU GPLv3
+57,0x4D555f0F2f02A4a3eF9692D1Cc7A087515c5CD24,FenixNFT,Solidity(Json),0.8.0,0 Ether,2,,5/4/2021,-,-
+58,0x0390b0c6D0EAeCe8E3259C11806E88aba6B66850,MistXJar,Solidity(Json),0.8.3,0.00397462912 Ether,3,,5/4/2021,-,-
+59,0x13e8484a86327f5882d1340ed0d7643a29548536,OlympusBondDepository,Solidity,0.7.5,0 Ether,5,,5/4/2021,-,GNU AGPLv3
+60,0x19FA70b1e59c7F6eDa623927E1314ac41CEF66e0,Plethori,Solidity(Json),0.7.3,0 Ether,5,,5/4/2021,-,-
+61,0xce6568338708400d03f430d29f2eb40a33a3f4c4,OlympusDistributorContract,Solidity,0.7.5,0 Ether,2,,5/4/2021,-,GNU AGPLv3
+62,0x68ed285ac96edf7165c21b1221cdfff65b80629a,vesting,Solidity,0.8.1,0 Ether,4,,5/4/2021,-,MIT
+63,0xdc351121342d0d25c80203201386323c1dcc7365,TreasuryVester,Solidity,0.6.11,0 Ether,1,,5/4/2021,-,MIT
+64,0xe2f388b15ab96f49488cb2e4b627d9698c29c643,Armybehindthestagedollar,Solidity,0.5.0,0 Ether,2,-,5/4/2021,-,None
+65,0x7be7eb3162d1cb74e3967d9a8e3c603f353aeabc,HDL,Solidity,0.8.0,0 Ether,15,-,5/4/2021,-,MIT
+66,0x9d1f1847582261be41f5a54e8b60cad21400c74f,MerkleDistributor,Solidity,0.6.11,0 Ether,1061,,5/4/2021,-,MIT
+67,0x29c9c27e1c52fec56c5774aa948398c9819eb3b5,LMXF,Solidity,0.5.16,0 Ether,1,,5/4/2021,-,MIT
+68,0xe2cabe86071f6ae31e1b4634baa06522b838a148,OlympusBondingCalculator,Solidity,0.7.5,0 Ether,1,,5/4/2021,-,GNU AGPLv3
+69,0xd43d38254e22487744bce554baca9aa35dfeb9cc,STAT,Solidity,0.5.0,0 Ether,3,-,5/4/2021,-,MIT
+70,0x79d21cf8ac6278f9a352bfcb93ca3b56a91e34bd,RentibleVesting,Solidity,0.8.1,0 Ether,1,,5/4/2021,-,MIT
+71,0xef51cf0342893dbf1004c9ccce9f6389d61df632,RentibleVesting,Solidity,0.8.1,0 Ether,1,,5/4/2021,-,MIT
+72,0x87e64ffb764a54fae6b86d66874baeb58eb6487b,GSNxGS,Solidity,0.4.24,94 wei,4,-,5/4/2021,-,MIT
+73,0x80c48f90d835c641e293962f44bb57ae18bf48b4,GSNxPS,Solidity,0.5.7,0.0000000000009999 Ether,5,,5/4/2021,-,MIT
+74,0x85c7417d393b9d5abf07b6095e457c42bff12102,DogeSun,Solidity(Multi),0.8.1,0 Ether,2,,5/4/2021,-,None
+75,0xfb4a5add6e375fb0daae85a3daf84a775337ce5e,FavorToken,Solidity(Multi),0.4.26,0 Ether,1,,5/4/2021,-,MIT
+76,0x6f2eda18c621f8e392db11446e73f64a7b8a9884,dnc,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,MIT
+77,0x6b1344a82586573afb7ccb8189d145daa6da565c,TransferToReward,Solidity,0.5.16,0 Ether,3,,5/4/2021,-,BSD-3-Clause
+78,0x0fe50B14C24Bca2A538234503317d46d8b0ea59e,Mooniswap,Solidity(Json),0.6.12,0.000874134381819396 Ether,2,,5/4/2021,-,MIT
+79,0x8788050c3026557C539a2b8fCe146E27fA4ACc4F,IdleFuse,Solidity(Json),0.5.16,0 Ether,2,,5/4/2021,-,-
+80,0xec55ca131ca80de89de910700569512cc1dd095b,StandardERC20,Solidity,0.8.4,0 Ether,1,,5/4/2021,-,MIT
+81,0x4098Bde216707854F5BD00741971D2835f97aF88,UnifarmToken,Solidity(Json),0.7.3,0 Ether,9,,5/4/2021,-,-
+82,0x8a8038243f1c5f3cf8b8d59000d31b467fd4bef6,InariV1,Solidity,0.6.12,0 Ether,21,,5/4/2021,-,MIT
+83,0x5d89cd6f9cf66ab82513b396a46c0c812af89b5c,EURSToken,Solidity,0.4.21,0 Ether,3,,5/4/2021,-,None
+84,0x8d8eeac9bd644415565886fb24c051921fcb68eb,ERC20,Solidity,0.6.6,0 Ether,3,,5/4/2021,-,MIT
+85,0xF785d2652a95F41e5999aF960237bCcaBd291D3e,CrowdsaleToken,Solidity,0.5.15,0 Ether,1,,5/4/2021,-,None
+86,0xe2a80A76B084B51CFAe5B2C3e0FF5232e0408201,UniStakingSyntheticToken,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,-
+87,0x69d3Af30c63F5bd916bBcD79b58dBc8BD16D0308,Token,Solidity,0.5.15,0 Ether,2,,5/4/2021,-,None
+88,0x51b72CFc7D1C2203d9d364F2704A3E405387D264,NexenFarming,Solidity(Json),0.8.2,0 Ether,1,-,5/4/2021,-,-
+89,0xaf20e43670ba3d81415ff799e41293c3268df577,BRZZ,Solidity,0.6.12,0 Ether,3,-,5/4/2021,-,None
+90,0x21bf40e93d6419b8eb553c4d7222d8089d3bacc6,Sith,Solidity,0.6.12,0 Ether,224,-,5/4/2021,-,MIT
+91,0xa27342A82b0bfeE68e366Fd84FC517BDDEab4aE4,MultipleDistribution,Solidity(Json),0.5.12,0 Ether,5,,5/4/2021,-,-
+92,0x1d041E3A90da2240Ba298B85bcb6c32275e42B99,MultipleDistribution,Solidity(Json),0.5.12,0 Ether,5,,5/4/2021,-,-
+93,0x6a0fd1c5d686b678060543090078a41151ace871,Muskdoge,Solidity,0.5.17,0 Ether,5,,5/4/2021,-,MIT
+94,0xc131862E42e86B0d49875dB1055D9D2397b993dd,NFT,Solidity(Json),0.7.1,0 Ether,8,-,5/4/2021,-,-
+95,0x5A3E535C93558bD89287Aa4ef3752FD726517673,Distribution,Solidity(Json),0.5.12,0 Ether,3,,5/4/2021,-,-
+96,0x09e0257d652322be9989a157b4408f4909cd3ed2,OHCOIN_V1,Solidity(Multi),0.8.4,0 Ether,1,-,5/4/2021,-,None
+97,0x0275E1001e293C46CFe158B3702AADe0B99f88a5,OilerToken,Solidity(Json),0.5.12,0 Ether,2,,5/4/2021,-,-
+98,0x927d7a2b016065aeabeec5f4977c8e666a79af7b,HomoraIBSwap,Solidity(Json),0.7.6,0 Ether,2,,5/4/2021,-,MIT
+99,0x98ac5405d513ee2a185ea048ea5d6309b2ee7948,Teletubbies,Solidity,0.8.0,0 Ether,10,-,5/4/2021,-,MIT
+0,0x5442e3464d0c2db095c385948c206deca7982eb5,UniswapProxyCallV3,Solidity,0.6.12,0 Ether,1,-,5/4/2021,-,None
+1,0xdfd4bf421c693f3c46cc5a23800dc567594dc5f0,UniswapProxyCall,Solidity,0.6.12,0 Ether,1,-,5/4/2021,-,None
+2,0xEdf8f834347F77bC5B3958C2D90F0CE67ae12F4F,UniswapV2CalleeDai,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,GNU GPLv3
+3,0x80B9CB40F05785F03aE968Bd6748E4EE8799dF50,Mooniswap,Solidity(Json),0.6.12,0.1 Ether,2,,5/4/2021,-,MIT
+4,0x622a0dd1dB56ed891623056Bacd188723aEC00Ec,Mooniswap,Solidity(Json),0.6.12,0 Ether,4,,5/4/2021,-,MIT
+5,0xCE7AE35E05BA226DCdd2ED23c974B7F90744c6D9,Mooniswap,Solidity(Json),0.6.12,45.811341339021575117 Ether,1,,5/4/2021,-,MIT
+6,0x6baBf14C68c4480A959249CbE71021c57B0F3200,Mooniswap,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,MIT
+7,0x4Fe4c91383b12f505Ec369c86Ac87e3e281ef8c2,Mooniswap,Solidity(Json),0.6.12,0 Ether,2,,5/4/2021,-,MIT
+8,0x885F1ED70210369fd1581Df6FceBF651D7Af88a6,Mooniswap,Solidity(Json),0.6.12,0 Ether,0,,5/4/2021,-,MIT
+9,0x98BdF79EFc11a58bFe349ade4Df8073cc452E283,Mooniswap,Solidity(Json),0.6.12,0 Ether,2,,5/4/2021,-,MIT
+10,0x2aABd0AC16eb107731e0A126d513883bE38c9cEA,Mooniswap,Solidity(Json),0.6.12,0.000321991116866915 Ether,3,,5/4/2021,-,MIT
+11,0xbd1218D8d06e7E8Abd2640652CCE50e9404dC50C,Mooniswap,Solidity(Json),0.6.12,0 Ether,0,,5/4/2021,-,MIT
+12,0x704dcd2bd27621fa9bfebb6f7461d16028d42781,Token,Solidity,0.7.0,0 Ether,14,-,5/4/2021,-,GNU GPLv3
+13,0xC2946d6c8698cb0276B711757380D3bA43663576,Mooniswap,Solidity(Json),0.6.12,0.0001888150716559 Ether,4,,5/4/2021,-,MIT
+14,0xA0f3eBeCd4a0664887f59903CdcD5012a540690c,Mooniswap,Solidity(Json),0.6.12,0.167198518052193796 Ether,1,,5/4/2021,-,MIT
+15,0xDD123A371Cf5dCda2B0CAF1866f364f444b9b38a,Mooniswap,Solidity(Json),0.6.12,0 Ether,2,,5/4/2021,-,MIT
+16,0xa355B4B904ce09Bd1847f4cf133769BC0dfBC51B,FarmingRewards,Solidity(Json),0.6.12,0 Ether,9,,5/4/2021,-,-
+17,0x7dd84d297e0adcb8fF35E7AE86ED540f9c5feB00,Mooniswap,Solidity(Json),0.6.12,0.387331416124673279 Ether,5,,5/4/2021,-,MIT
+18,0xDD00E109EadDFEC3029858Fcb141267B0BDD95Fe,Mooniswap,Solidity(Json),0.6.12,0 Ether,0,,5/4/2021,-,MIT
+19,0xCa5494b28B5a90082f17e36A8929c2707B5521FD,Mooniswap,Solidity(Json),0.6.12,25 wei,2,,5/4/2021,-,MIT
+20,0xc14b9826e9bc506e62faae60b8b2bb470228013b,Barmack,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,MIT
+21,0x6838b687b9a38ddd55d4568b8a2d40b2b99dd821,Dogebit,Solidity,0.5.7,0 Ether,12,-,5/4/2021,-,MIT
+22,0xd86dd5f8d218eaee9c13cdd3d3d4ae2d8b9d4d8f,Token,Solidity,0.5.17,0 Ether,2,-,5/4/2021,-,None
+23,0x7cea0f34acc96b5423ed42314da06d6214c016b2,SCADAM,Solidity,0.4.26,0 Ether,2,-,5/4/2021,-,MIT
+24,0x780788f47852E65348a289403bC2d734dd0960fE,MasterCoin,Solidity(Json),0.5.2,0 Ether,1,-,5/4/2021,-,-
+25,0xC5cD8Ac8915E4B589Bd92A75C7663cC0B9B05e76,IdleTokenGovernance,Solidity,0.5.16,0 Ether,1,,5/4/2021,-,Apache-2.0
+26,0x8a5827Ad1f28d3f397B748CE89895e437b8ef90D,LiquidityMining,Solidity(Json),0.7.6,0 Ether,15,,5/4/2021,-,-
+27,0x22e1fe5bBB98a0eDA715B56a7bf04ed462BcA8d2,Reservoir,Solidity(Json),0.7.6,0 Ether,2,,5/4/2021,-,-
+28,0xbdc04a0c0899dcddce94deba0250af8a20e12159,TokenContract,Solidity,0.6.12,0 Ether,1,,5/4/2021,-,None
+29,0x7a4b19ab0b2116e2da1a6a4214a6f2ccc65011bd,TokenContract,Solidity,0.6.12,0 Ether,2,,5/4/2021,-,None
+30,0x55ae620f8f00e644a1457a4873101e16cc0bbbd1,KDT,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,None
+31,0x819e5792d36902Ab6a9BCd201D3c3BEA32281679,Rewarder,Solidity(Json),0.6.6,0 Ether,6,,5/4/2021,-,-
+32,0x79b429d6862d544f03abfe56689a575b8454dfab,Token,Solidity,0.5.17,0 Ether,2,-,5/4/2021,-,None
+33,0xf93063cb584263102dd355759c5a8a359bfba31d,ALKI,Solidity,0.5.17,0 Ether,2,-,5/4/2021,-,None
+34,0xc0eef5968f7e4d3d22d22d4fca55e534ae732bf0,Skywalker,Solidity,0.6.12,0 Ether,12,-,5/4/2021,-,MIT
+35,0x76634b77fa4da63aece17d93a34043b6b1e0a159,DiamondHands,Solidity,0.6.12,0 Ether,35,-,5/4/2021,-,Unlicense
+36,0x746345bb9149930a3a9920f0035ad7d553b4fd15,TetherToken,Solidity,0.4.26,0 Ether,1,-,5/4/2021,-,None
+37,0xAF691508BA57d416f895e32a1616dA1024e882D2,PinknodeToken,Solidity(Json),0.8.4,0 Ether,1,,5/4/2021,-,-
+38,0x539ede26b812e40aebadab83b8615343bcfa1b7a,Falcon9SpaceX,Solidity,0.5.17,0 Ether,2,-,5/4/2021,-,MIT
+39,0xb48b3a30b297fd9a765daa2b7520765b640d486b,AFT,Solidity,0.7.1,0 Ether,84,-,5/4/2021,-,GNU GPLv3
+40,0x6c6291e630a541734970a14970d2fc1d90cfedb7,SKEM,Solidity,0.6.6,0 Ether,12,,5/4/2021,-,MIT
+41,0x433384e6e167250c15fdbcd0f17978764d397d2d,DextokenFactoryCollateral,Solidity(Multi),0.5.17,0 Ether,2,,5/4/2021,-,GNU LGPLv3
+42,0xcd57778f5b7d184e49bd02333e0a8f65a2fc2958,NIGGER,Solidity,0.5.5,0 Ether,6,-,5/4/2021,-,MIT
+43,0x6a5fda4d2869d8cbf9d722d2fd83ce6cd040086e,UserInfo,Solidity,0.5.16,0 Ether,1,,5/4/2021,-,BSD-3-Clause
+44,0x9450a9609F9De568F2991db62889212d6f4c7C93,BadgerBTCPlus,Solidity(Json),0.8.0,0 Ether,1,,5/4/2021,-,-
+45,0xc1da899c50832591927dd3c21c87c81bbb2d2c04,Swarm,Solidity,0.6.12,0 Ether,2,,5/4/2021,-,None
+46,0xedc74a8f70602be8607a62cc2124194c54695a32,Aiko,Solidity(Multi),0.4.26,0 Ether,2,,5/4/2021,-,None
+47,0x9871078deaa3df0b8f116ee1c6018adde5c1732a,ForeignBridgeErcToErc,Solidity,0.4.24,0 Ether,1,,5/4/2021,-,-
+48,0xd98e59c710eaf3608f4dd073c2e843826f0d7e12,EternalStorageProxy,Solidity,0.4.24,0 Ether,7,,5/4/2021,-,-
+49,0x99cd4a9a059e8ecd6ee2635f6f89527c6a6a91a7,BridgeValidators,Solidity,0.4.24,0 Ether,1,,5/4/2021,-,-
+50,0x4671740ff9744fc197df8c3fe32ea9b18b207982,EternalStorageProxy,Solidity,0.4.24,0 Ether,4,,5/4/2021,-,-
+51,0x5612A8Ff3cA0abB5Fb26b74f7Ce56C8802F0B60E,Fiat24CHF,Solidity(Json),0.6.2,0 Ether,1,,5/4/2021,-,-
+52,0xa6d5d717436917d6e8fff12dca46f1d17d6fb947,TapRootBitcoin,Solidity,0.5.0,0 Ether,3,-,5/4/2021,-,MIT
+53,0xFdd7839Dd0ACEEDa96BAcD3E47e6FD9513Af4b98,Fiat24Account,Solidity(Json),0.6.2,0 Ether,1,,5/4/2021,-,-
+54,0x337a8ab0bde15edddfcda432e422bd9c00fae8e6,PNODE,Solidity,0.6.6,0 Ether,6,,5/4/2021,-,MIT
+55,0x24aFFDC1e5FBF0bA0c2eA692EA263d6c3E6AAE58,BadgerHrenCrvPlus,Solidity(Json),0.8.0,0 Ether,1,,5/4/2021,-,-
+56,0x6e14735ef0fb63c17d3ba874443a3f827191c723,USDMToken,Solidity,0.4.17,0 Ether,2,,5/4/2021,-,None
+57,0x1847e59d9C2f30c7fE0347BA3E53DA1ae8A7F0E8,NFTAToken,Solidity(Json),0.7.0,0 Ether,1,,5/4/2021,-,-
+58,0x52d57454e6a87ef0675bdad75a4bafbae52e99b3,ElonDarkWeb,Solidity,0.5.17,0 Ether,5,-,5/4/2021,-,MIT
+59,0xa04f39b8ade7cf0b1bd1e0488e6a932d1284714e,StakingRewardsFactory,Solidity,0.5.16,0 Ether,3,,5/4/2021,-,None
+60,0x5E8AB4d8b4FE3F6c237A7aB5994b7f0BCB175E27,LiquidityMining,Solidity(Json),0.7.6,0 Ether,15,,5/4/2021,-,-
+61,0x0fbe8D46aC51B66547c45B92ecaf50267b6A4165,IonThrusters,Solidity,0.7.6,0 Ether,1,,5/4/2021,-,MIT
+62,0x801ea8c463a776e85344c565e355137b5c3324cd,StarBound,Solidity,0.7.6,0 Ether,2,,5/4/2021,-,MIT
+63,0xca698707ba461874d6b42bf4e09c240b6bba1809,Titanium,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,MIT
+64,0x0377F523a360977c5d6d62BCfe0fB431aE4d3447,Reservoir,Solidity(Json),0.7.6,0 Ether,3,,5/4/2021,-,-
+65,0x0ce20e33ff9fadcf43668fac351b97539e2ac58d,ALFA_BANK,Solidity,0.4.25,15.000000005791 Ether,2,,5/4/2021,-,None
+66,0x025b4124732B1bf90CdD574975a99a6215De4a55,FillQuoteTransformer,Solidity(Json),0.6.12,0 Ether,0,,5/4/2021,-,Apache-2.0
+67,0x0B0F84dee8b4098E85d97A930052fEA117a6eba2,BridgeAdapter,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,Apache-2.0
+68,0x1406f20500c5fc2ff86ac40bb0408006b9c90b32,ERC20,Solidity,0.6.6,0 Ether,12,,5/4/2021,-,None
+69,0xee4dd716ffd955f2084839500646749722031572,WSUM,Solidity,0.4.24,0 Ether,194,-,5/4/2021,-,None
+70,0xb5aef6b420924e425cddbca6a563a0ff29633e6c,PussyLips,Solidity,0.5.17,0 Ether,5,,5/4/2021,-,MIT
+71,0x833482C2dC61c7E695a07fe7bfc50e063781E75F,VestStream,Solidity(Json),0.6.12,0 Ether,50,,5/4/2021,-,-
+72,0x775d3aee976371a4a13ddccade8e23c49a4ef08b,BunBunZ,Solidity,0.5.0,0 Ether,1,-,5/4/2021,-,MIT
+73,0x0833799677181d1D909D30e92Dd8ccc5ab950561,BadgerTBTCCrvPlus,Solidity(Json),0.8.0,0 Ether,1,,5/4/2021,-,-
+74,0xc15c9237c08c491117a8d9738d86dde8994813e4,ANTISAFE,Solidity,0.6.12,0 Ether,1,-,5/4/2021,-,Unlicense
+75,0x76c28a49f61c55223acca49e07808b75c08b6371,UserInfo,Solidity,0.5.16,0 Ether,1,,5/4/2021,-,BSD-3-Clause
+76,0x674FB8CBD83C5555BcCB36e46231B8788F14c120,BadgerSBTCCrvPlus,Solidity(Json),0.8.0,0 Ether,1,,5/4/2021,-,-
+77,0x6c43a54434a0123ebd9f17159b2648fe0276e6c5,UniFarm,Solidity,0.6.12,0 Ether,1,-,5/4/2021,-,MIT
+78,0xece06118fbe7234ab283f9f51f8873c16d8a6eea,BLKCoin,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,MIT
+79,0xb66be91f543f638a97ab2a5ae168a6812fbe5aca,BuilderShop,Solidity,0.5.17,0 Ether,1,-,5/4/2021,-,None
+80,0x3F9888cA07aEacEB84616a0f70318302aC1f3863,VaultCollateral,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,-
+81,0x86691B1a527Af2d31b122db737b24fa7b62e85E2,PriceCalculatorETH,Solidity(Json),0.6.12,0 Ether,1,,5/4/2021,-,-
+82,0xd33d088404c7c2c060439f2991bd1daf853a155c,STCL_ChristiePunks,Solidity,0.5.8,0 Ether,12,-,5/4/2021,-,Unlicense
+83,0x657275ba2411db878226ea69cf8e23065fea3350,Coin,Solidity,0.6.12,0 Ether,4,,5/4/2021,-,MIT
+84,0xB447fc8877Ef10Cf6A4b8F29C1B9D3830cE934f1,DudeWithSignNFT,Solidity(Json),0.8.4,0 Ether,51,,5/4/2021,-,-
+85,0xa690a5349054d8c8a887591b0ff5eb944f56274a,Truedoge,Solidity,0.5.17,0 Ether,728,,5/4/2021,-,MIT
+86,0x2d94aa3e47d9d5024503ca8491fce9a2fb4da198,Bank,Solidity,0.6.11,0 Ether,240,,5/4/2021,-,MIT
+87,0xa339ca97e74116d3ee295dba37335c09a5383b82,GsnPs,Solidity,0.5.17,1 wei,9,-,5/4/2021,-,MIT
+88,0xbc194e6f748a222754C3E8b9946922c09E7d4e91,Lev,Solidity,0.5.17,0 Ether,13,,5/4/2021,-,None
+89,0x71402bd4cce356c41bb3c5070a0e124e9989cbc0,MultiSender,Solidity,0.8.4,0 Ether,22,,5/4/2021,-,MIT
+90,0x0abed9d2b33d47c5a29e51c9387216f3f011b0de,HomeMultiAMBErc20ToErc677,Solidity,0.4.24,0 Ether,1,,5/4/2021,-,GNU GPLv3
+91,0x63C50a1Fe505e9DC77BC6A75e6643099A0816f67,EternalStorageProxy,Solidity,0.4.24,0 Ether,9,,5/4/2021,-,GNU GPLv3
+92,0xc46E213Cc97653A8ac24B005Bc7e20BADaCb91b8,Staking,Solidity(Json),0.5.17,0 Ether,1,,5/4/2021,-,Apache-2.0
+93,0x823a4b356366201021e1190db40bc4941bcc855a,Coin,Solidity,0.6.12,0 Ether,3,,5/4/2021,-,MIT
+94,0x15Bb33e5462701E68b6d054947b3EF4A92A2C105,MintersVault,Solidity,0.7.6,0 Ether,4,,5/4/2021,-,None
+95,0x520c82dab1A956E53597eD1316765AF5cf5dFF02,Headhunter,Solidity(Json),0.8.0,0 Ether,7,,5/4/2021,-,-
+96,0xa07b4cea8adec0290e31ce74dc2f55ff3cdae205,CrossPad,Solidity,0.6.12,0 Ether,2,-,5/4/2021,-,MIT
+97,0xFF50984b4c6D0C5166fD4AA197B8d164900F880c,Staking,Solidity(Json),0.5.17,0 Ether,1,,5/4/2021,-,Apache-2.0
+98,0x4f6f54aaf77b015f67bf5d67d5baecc6878e5f29,MelindaGates,Solidity,0.6.12,0 Ether,6,-,5/4/2021,-,MIT
+99,0x680276CF3Ea6C52F0fCa4BA216C3353fe387EBdE,DODOAdapter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+0,0xe26Ab391A2bA6D9A5399aE412727Dd197414cFA1,TruefiAdapter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+1,0x8432BF53c68aed9E703ABCd78Be3810478F1eE36,PickleAdapter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+2,0xb3BB0Fbc367c43cd53d2FE62da6c274e40b0edb1,SushiAdapter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+3,0x8dF2844f3f2e3297d57E2A9EE38AB3f7AF652e03,LuaAdapter,Solidity(Json),0.7.6,0 Ether,1,,5/4/2021,-,-
+4,0x036Ea7048a4C1F28b299b9dD9E3C9fe9022e2A2A,ERC20,Solidity,0.5.17,0 Ether,30,,5/4/2021,-,MIT
+5,0x54f07E6A7118F43cb9d6B6231C1c287C9ED0cD26,OnChainCollectibles,Solidity,0.5.0,0 Ether,2,-,5/3/2021,-,MIT
+6,0xfcf5AEdE4D9206D40Ec6488CD5D7419A9988593e,BachelorBill,Solidity,0.6.12,0 Ether,55,-,5/3/2021,-,MIT
+7,0x95e423fea8bf5ace852ab3686c98c8c83d7115db,ASS,Solidity,0.6.12,0 Ether,20,-,5/3/2021,-,MIT
+8,0x3c4b29e42c60e9243fd05b609d2a7c90a26e5b19,GBUDToken,Solidity,0.4.26,0 Ether,2,-,5/3/2021,-,MIT
+9,0xa143ac515dca260a46c742c7251ef3b268639593,BulkToken,Solidity,0.8.4,0 Ether,1,,5/3/2021,-,MIT
+10,0x3e421f6434d2349030b21d05078ba9d356c70b03,Token,Solidity,0.5.11,0 Ether,1,,5/3/2021,-,None
+11,0xe614bfb8069419cf46dce4b522555359c2a8c4ef,OshitsuNoInu,Solidity,0.5.17,0 Ether,9,,5/3/2021,-,MIT
+12,0x59664cb547aaddd00a4e15b0fe5c8dceb6fd328d,TitsToken,Solidity,0.6.12,0 Ether,15,-,5/3/2021,-,MIT
+13,0xa057969f01b3678343db25a6a1e7af4ab8bcfcba,Meebits,Solidity,0.6.12,0 Ether,19,,5/3/2021,-,MIT
+14,0x828d366dc14a49c71e3ee32650661a8ac1bcdc22,liquidty_withdraw,Solidity,0.8.1,0 Ether,2,,5/3/2021,-,MIT
+15,0x1922566e98f18d8ab3490712af9e80712cbf436c,OBELON,Solidity,0.6.12,0 Ether,24,-,5/3/2021,-,None
+16,0x700049041010349d76ab32e939f46dec42324b6f,foxyswaptoken,Solidity,0.6.2,0 Ether,18,-,5/3/2021,-,None
+17,0xc626c18ea9bad7cf174f49e7f9440f5dd9cad8e0,SpaceXNetwork,Solidity,0.5.17,0 Ether,2,-,5/3/2021,-,MIT
+18,0x94269ae87214db1094408aec7edc614bd4319423,FavorExchangeToken,Solidity(Multi),0.4.26,0 Ether,1,,5/3/2021,-,MIT
+19,0x9196e18bc349b1f64bc08784eae259525329a1ad,meowToken,Solidity,0.8.1,0 Ether,675,,5/3/2021,-,MIT
+20,0x968166d72d866242b3d36604b04f2981ffd21c1d,ERC20,Solidity,0.6.6,0 Ether,8,,5/3/2021,-,None
+21,0xb72e8ac17882ae9e2bb1f43f061298fa7f5ef5ea,ToppuInu,Solidity,0.6.6,0 Ether,3,,5/3/2021,-,MIT
+22,0xA412eCfcB3B55C5aAEB71eF2276E99375c2CbcFb,MNTX,Solidity(Multi),0.4.24,0 Ether,7,,5/3/2021,-,MIT
+23,0xE74dC43867E0cbEB208F1a012fc60DcBbF0E3044,CWAPToken,Solidity(Json),0.7.0,0 Ether,1,,5/3/2021,-,-
+24,0x0f6fa2a0fa387f7ef9592f97a38b558c461682e8,FavorExchangeTokenMasterWallet,Solidity,0.4.26,0 Ether,1,,5/3/2021,-,MIT
+25,0x2AB43e7fB17dbBbCC5Bb31a7f08e9a2d8bAF948d,Basis2FarmStrategyMainnet_DAI_BASV3,Solidity(Json),0.5.16,0 Ether,1,,5/3/2021,-,-
+26,0x8d84509967353e4c06e270452bbd1f34213ae80c,LpStakingPool,Solidity(Json),0.7.6,0 Ether,14,,5/3/2021,-,-
+27,0xbd9908b0cdd50386f92efcc8e1d71766c2782df0,RICEToken,Solidity,0.8.4,0 Ether,1,,5/3/2021,-,MIT
+28,0x05f9Cd69CEfc73872731911293E3734D36eCb39B,Basis2FarmStrategyMainnet_BAC_DAIV3,Solidity(Json),0.5.16,0 Ether,1,,5/3/2021,-,-
+29,0x0868055f30dc47a873176dea746b9d27a71e4ec1,ERC20,Solidity,0.6.12,0 Ether,32,,5/3/2021,-,MIT
+30,0xdB635EEbaEdEF9801653F559E2C859aA81Ac1FF4,DynamicFee,Solidity(Json),0.7.6,0 Ether,1,,5/3/2021,-,-
+31,0x5318731e1fb85d3743f9f8412d9441459d3d9f00,Exchange,Solidity(Json),0.7.4,0 Ether,1,,5/3/2021,-,-
+32,0x4Ca85d552422c10158511829FB58B48B85AcCf58,RepricerRegistry,Solidity(Json),0.7.6,0 Ether,2,,5/3/2021,-,-
+33,0xee981EB86DF4569b6368d9Cb2172Ff971Bf453dE,x5Repricer,Solidity(Json),0.7.6,0 Ether,1,,5/3/2021,-,-
+34,0x377cee6ba534be7a6475dd3c2284398a6d1b9973,ShikokuKen,Solidity,0.6.12,0 Ether,183,-,5/3/2021,-,MIT
+35,0x5a5eca9a065f4543ae0b30e25e29e2de33966d94,RewardManager,Solidity(Json),0.7.6,0 Ether,1,,5/3/2021,-,-
+36,0x6ABc46b0706C798177cF9eb00E44f359bA31A8e0,VaultBuilder,Solidity,0.7.6,0 Ether,1,,5/3/2021,-,GNU GPLv3
+37,0x07D25aAf0aF789F19434a776F589fB08CC876942,LiquidityMiningView,Solidity(Json),0.7.6,0 Ether,1,,5/3/2021,-,-
+38,0xcA01acea706D1Bf58722bE72284e933a9Dd3d69A,ProxyActionsLiquidityMining,Solidity(Json),0.7.6,0 Ether,1,,5/3/2021,-,-
+39,0x5029c14935390056b55270f0e8fdf4f78ffc8487,Pangolin,Solidity,0.6.12,0 Ether,67,-,5/3/2021,-,None
+40,0xa566ff0e548bc60dd56cc00c7616952d56fb6130,CovidFree,Solidity,0.6.12,0 Ether,2,,5/3/2021,-,GNU GPLv2
+41,0x31Db4dB73164188a6A9DEC4D3023C73e4dFB7e5F,LibUnitConverter,Solidity(Json),0.7.4,0 Ether,1,,5/3/2021,-,-
+42,0x9a882177a99373cc42CDBcdD8D0f4eFCb038f280,MarginalFunctionality,Solidity(Json),0.7.4,0 Ether,1,,5/3/2021,-,-
+43,0x4b6d92828D9014246d47bC2DB39a5Ea88762E016,LibValidator,Solidity(Json),0.7.4,0 Ether,1,,5/3/2021,-,-
+44,0xee1cd7a728b0dE5acD90E4960FEd1BEA4B76d035,AdminUpgradeabilityProxy,Solidity(Json),0.7.3,0 Ether,12,,5/3/2021,-,-
+45,0xbe09b93d8d0f7f6671405520daf5a2382163d97f,ESON,Solidity,0.8.4,0 Ether,223,,5/3/2021,-,MIT
+46,0xE0bDFe2CE51F44556309665D59818CCb541ff067,ERC20Token,Solidity,0.5.0,0 Ether,506,,5/3/2021,-,MIT
+47,0xbe192a15da3d4004242de1b215691d08a69543d1,OCTToken,Solidity,0.4.24,0 Ether,2,-,5/3/2021,-,MIT
+48,0x7b4a6b798f803512fc53ed656fbc510f022389e5,FarmBossV1_WETH,Solidity,0.6.12,0 Ether,43,,5/3/2021,-,MIT
+49,0xfb2ccc29e312554bc264cb83497a7137c1532e2f,FarmBossV1_USDC,Solidity,0.6.12,0 Ether,40,,5/3/2021,-,MIT
+50,0x781878fa5fef24b1ad91a6aec1d9befd8a560705,TODA_VIDA,Solidity,0.8.3,0 Ether,2,,5/3/2021,-,MIT
+51,0x8b2314ca384adbc79fb178d5d2f86c631f1b8c74,CODE,Solidity,0.8.0,0 Ether,8,,5/3/2021,-,MIT
+52,0x5e05a2a5ee1b23267bc46f72f6c25ddee4af8144,StarWars,Solidity,0.6.12,0 Ether,314,-,5/3/2021,-,MIT
+53,0x8e0ff024e8c71ae27ca1d2dcde7cd174b29c259f,uDistributeV2,Solidity,0.8.1,0 Ether,1,-,5/3/2021,-,Unlicense
+54,0xb4db9bc59f746409e0fb0f91a2b2768be0608b0e,PowerfulERC20,Solidity,0.8.4,0 Ether,2,,5/3/2021,-,MIT
+55,0x268fe9d4015efa3e495ad7c26e8367d84c9bfc81,FTCToken,Solidity,0.5.0,0 Ether,15,,5/3/2021,-,MIT
+56,0xeec2e27c84fc1f2ddd2ed03d74fed0758f99c71b,ArbitrageBot,Solidity(Multi),0.6.12,0 Ether,1,,5/3/2021,-,MIT
+57,0xf2d073cfe180eee64d6efe5401a415835c4cc935,NDRLock,Solidity,0.5.12,0 Ether,67,,5/3/2021,-,MIT
+58,0xfeab57ec784b20d82049f0419c168a9764a39da2,TibetanMastiff,Solidity,0.5.17,0 Ether,3,-,5/3/2021,-,None
+59,0xa7385846e19f06f2c2e83807d0948029a23688ce,CPTE,Solidity,0.6.6,0 Ether,9,,5/3/2021,-,MIT
+60,0xba23384b0d74078dc19f6edd2da4cc21db0e65c7,SmartlinkDao,Solidity,0.8.4,0 Ether,3,-,5/3/2021,-,MIT
+61,0x40c35e91d822b5f731e6fe31e7cf7674aee80ec6,PokerStars_Token,Solidity,0.5.17,0 Ether,3,,5/3/2021,-,MIT
+62,0x8749bce0e7e159b6d0469da981231234c07955f6,Allecoin,Solidity(Multi),0.4.26,0 Ether,1,,5/3/2021,-,None
+63,0x3b5da751908be5270b7260baa5cf688a651db6e1,AgroFinance,Solidity,0.5.16,0 Ether,1,,5/3/2021,-,MIT
+64,0x0D4BB5613CC2187B95958e18b7C13fE1a76D022A,Dummy,Solidity,0.6.7,0 Ether,3,,5/3/2021,-,None
+65,0x939d5a13cf0074586a2dcf17bc692b2d3ccdd517,BRingClaim,Solidity,0.8.4,0 Ether,282,-,5/3/2021,-,MIT
+66,0x35a119f8cdd516686d4460303963b33ccd15b35d,InstaCash,Solidity,0.8.4,0 Ether,1,,5/3/2021,-,None
+67,0x7e1e71a94daf39a43b86a790c21d1aa36bb6fa38,Contract2,Solidity,0.8.4,0 Ether,3,,5/3/2021,-,None
+68,0x19fae8C2Efe987f81Ca2209Ce10960cEd1DC66E0,Plethori,Solidity(Json),0.7.3,0.001 Ether,22,,5/3/2021,-,-
+69,0x660d90f29819c729f3e0f605007adfdce8dd3b98,WSEV,Solidity,0.8.4,0 Ether,2,,5/3/2021,-,Unlicense
+70,0x9306f56d93578ead5675bc3c9be203077ceb0885,Digibyte,Solidity,0.5.0,0 Ether,2,-,5/3/2021,-,MIT
+71,0x1c39d4c8ad7ce5206355d43e343f5136ba5ca50f,KERNELGift,Solidity,0.8.3,0 Ether,6,,5/3/2021,-,None
+72,0x745f9ec93534b7ba6ff679727469685f24b582ac,Proxy,Solidity,0.8.3,0.31098421 Ether,2,,5/3/2021,-,GNU GPLv3
+73,0x43829706071728cfeb9794fdb67926e772bd5c45,SCcoin,Solidity,0.4.26,0 Ether,1,,5/3/2021,-,None
+74,0x454d033a8a218f91b5f2f19eef06dbfa5a743242,ElonSwap,Solidity,0.5.7,0 Ether,15,-,5/3/2021,-,MIT
+75,0x45d5d1dbb4c29fe92ed6da92718fd13e7cc7e01f,BEP20Token,Solidity,0.5.16,0 Ether,1,-,5/3/2021,-,None
+76,0xf4a6f4ac07e215484bd9b6fbca0b35ff8005dc52,OBINU,Solidity,0.6.12,0 Ether,57,,5/3/2021,-,None
+77,0x86b9aa0472ff7a8fc4cd4d6d3bbf62783dce7f8d,fWBTC,Solidity,0.8.4,0 Ether,1,,5/3/2021,-,MIT
+78,0x38D178175dbcDecD27F6904b24Cc3406b546BB27,BitDog,Solidity,0.8.1,0 Ether,1,,5/3/2021,-,MIT
+79,0x1cb7176C90426EC53246f5B86b041913B3Cc668e,Gener8tiveMutationsERC721,Solidity(Json),0.8.0,0.665 Ether,30,,5/3/2021,-,-
+80,0x1304a1D8BE22b9078ec3A5eF2ACb0FEf3C9C89E5,Rewarder,Solidity(Json),0.6.6,0 Ether,2,,5/3/2021,-,-
+81,0x5418a69e72a5afad9a73f8defc21036157e2f72b,PLE,Solidity,0.6.6,0 Ether,25,,5/3/2021,-,MIT
+82,0xb1e701326C9a446D9955E5604e9663231Aa5a2fD,TruElon,Solidity,0.5.17,0 Ether,41,,5/3/2021,-,MIT
+83,0x60db53521c1563C89E55D9FcEDa8D47F55c14d0e,eDKK,Solidity,0.6.12,0 Ether,8,-,5/3/2021,-,MIT
+84,0x0f7f6531aF9792c9A42e2BEfCeD5ED81c0D63A23,eSEK,Solidity,0.6.12,0 Ether,13,-,5/3/2021,-,MIT
+85,0x9EC749faa086BB604B96bfE02Bd49c53CEF47Ea5,eNOK,Solidity,0.6.12,0 Ether,10,-,5/3/2021,-,MIT
+86,0xfDbcD3a491Ca357e8Ce347e6b45c146e28667e23,eCHF,Solidity,0.6.12,0 Ether,10,-,5/3/2021,-,MIT
+87,0x0badd7af129efac1f7bb7253716a589cc5e6c17c,eEUR,Solidity,0.6.12,0 Ether,13,-,5/3/2021,-,MIT
+88,0x4f610978ebcf78d47765d3cc22aef1e9e259ae8d,Plethori,Solidity,0.6.12,0 Ether,2,-,5/3/2021,-,None
+89,0x206e070a020b92ec25cf9ab468385696e81b48ab,ChonkHogeFarm,Solidity,0.6.2,0 Ether,4,,5/3/2021,-,MIT
+90,0x62a8aa7a0b58b6f2e275796f84ba5ad48c65d36d,CovidFreeERC20Token,Solidity,0.5.0,0 Ether,10,,5/3/2021,-,GNU GPLv3
+91,0x21670ddb429b6d80b5be4e65532576bb14b7cc62,RegistryAdapterIronBank,Solidity,0.8.2,0 Ether,2,,5/3/2021,-,None
+92,0x8dca21c5c8165886ea1fa800ff9321ec74fde2c0,SWCapital,Solidity,0.6.6,0 Ether,1,,5/3/2021,-,Unlicense
+93,0xd9f46bd0fbc5d44a3551f8255513f1602e28aac8,BenefitProtocol,Solidity,0.5.17,0 Ether,7,,5/3/2021,-,MIT
+94,0x39aac04010fdd0b5f10b52b59018b5b201cd5176,ERC20,Solidity,0.6.6,0 Ether,15,,5/3/2021,-,None
+95,0xdbeab8f605a35b1bca0b835529865e7466213d4c,Freedom,Solidity,0.6.12,0 Ether,6,-,5/3/2021,-,MIT
+96,0x4A77719A4Cf1d8C152D21fA2B209DEeD0C6bEd1C,EIP20,Solidity(Multi),0.4.26,0 Ether,1,,5/3/2021,-,None
+97,0xE49055Ac21aF33ba5Ac59A40d0e10fbfB00D9583,FarmingRewards,Solidity(Json),0.6.12,0 Ether,3,,5/3/2021,-,-
+98,0x15f73d7c819feb9cbb7906391204ce57bf94ff25,Coin,Solidity,0.6.12,0 Ether,2,,5/3/2021,-,None
+99,0xf73ee4f0b82c57ebede359dd5a98d368838b01ea,Valorant_Token,Solidity,0.6.0,0 Ether,3,,5/3/2021,-,MIT

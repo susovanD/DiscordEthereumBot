@@ -14,5 +14,5 @@ A discord bot that would scrape Ethereum contracts data and update in the discor
 
 If this has helped you feel free to share it and also post your comments for questions and suggestions. Thanks :) 
 If you wish to buy me a coffee ☕ and keep me motivated:
-- [Paypal](https://paypal.me/susovanD0609?locale.x=en_GB)
+- ![image](https://user-images.githubusercontent.com/32951163/117191712-83d4ec80-adfe-11eb-86b2-f5d3c2455dc8.png)(https://paypal.me/susovanD0609?locale.x=en_GB)
 

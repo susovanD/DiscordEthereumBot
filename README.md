@@ -18,6 +18,9 @@ If this has helped you feel free to share it and also post your comments for que
 If you wish to buy me a cup of coffee ☕ and keep me motivated to create more such contents:
 
 
-<img src="https://user-images.githubusercontent.com/32951163/117192296-29885b80-adff-11eb-994f-fdb63257fabf.png" href="https://paypal.me/susovanD0609?locale.x=en_GB" width="200" height="50">  <img src="https://user-images.githubusercontent.com/32951163/117539408-215f3480-b028-11eb-8c21-f634430941a5.png" href="https://www.buymeacoffee.com/susovanD" width="200" height="50">
+<a href="https://www.buymeacoffee.com/susovanD"><img src="https://user-images.githubusercontent.com/32951163/117539408-215f3480-b028-11eb-8c21-f634430941a5.png"  width="150" height="40" style="vertical-align:top; margin:4px">
+
+<a href="https://paypal.me/susovanD0609?locale.x=en_GB"><img src="https://user-images.githubusercontent.com/32951163/117192296-29885b80-adff-11eb-994f-fdb63257fabf.png" width="150" height="40" style="vertical-align:top; margin:4px">
+
 
 
